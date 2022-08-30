@@ -653,13 +653,13 @@ body {
     
     
         .swiper-button-prev::after {
-            content: url(/img/arrow\ left.png) !important;
+            content: url('../img/arrow\ left.png') !important;
     
         }
     
     
         .swiper-button-next::after {
-            content: url(/img/arrow\ right.png) !important;
+            content: url('../img/arrow\ right.png') !important;
             justify-content: center;
         }
 }
